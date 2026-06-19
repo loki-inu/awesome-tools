@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Absozero's tools, apps, and resources
+# Aswath's List of Cool Tools
 ![Awesome](https://awesome.re/badge.svg)
 
 [oss]: ./assets/OSS.svg
