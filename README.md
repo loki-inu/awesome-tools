@@ -1,11 +1,11 @@
 <div align="center">
 
 # Aswath's List of Cool Tools & Resources
+
 ![Awesome](https://awesome.re/badge.svg)
 
 [oss]: ./assets/OSS.svg
 [free]: ./assets/free.svg
-
 
 A whole knowledge base to take inspiration out of!
 
@@ -17,11 +17,10 @@ A multitude of tools and apps, as well as other resources showing where I am per
 All of these tools and/or resources are free and open source unless specified
 ```
 
-| Open source software  | Free software       | AI software       | Personally Recommended software |
-|     :---------:       | :-----------------: | :---------------: | :----------------------------: |
-| Symbol:               | Symbol:             | Symbol:           | Symbol:                        |
-|`OSS`        |`Free`       |`AI`              |🌟                              |
-
+| Open source software | Free software | AI software | Personally Recommended software |
+| :------------------: | :-----------: | :---------: | :-----------------------------: |
+|       Symbol:        |    Symbol:    |   Symbol:   |             Symbol:             |
+|        `OSS`         |    `Free`     |    `AI`     |               🌟                |
 
 </div>
 
@@ -31,20 +30,19 @@ All of these tools and/or resources are free and open source unless specified
 - [CLI Applications](#cli-applications)
 - [Operating systems](#operating-systems)
 - [Tools](#tools)
+- [AI Tools](#ai-tools)
 - [Frameworks](#frameworks)
 - [Selfhosted Apps](#selfhosted-apps)
 - [Resources](#resources)
 - [Miscellaneous](#miscellaneous)
 
-
 ---
 
 ## Desktop apps
+
 [Table of Contents](#contents)
 
 - [Alacritty](https://alacritty.org/) - A minimalist, high-performance GPU rendered terminal emulator. `Free` `OSS`
-
-- [Antigravity](https://antigravity.google/) - An agent-first AI development environment from Google for delegating coding tasks to autonomous agents. `Free` `AI`
 
 - [Antimicrox](https://github.com/AntiMicroX/antimicroX) - Assign game controller input to keys on the computer. `Free` `OSS`
 
@@ -52,9 +50,9 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Bottles](https://usebottles.com/) - Software that is helping manage windows software running on linux with a great GUI. `Free` `OSS`
 
-- [Cursor](https://www.cursor.com/) - An AI-powered code editor for codebase-aware chat, edits, and agentic development workflows. `Free` `AI`
-
 - [Flameshot](https://flameshot.org/) - Cross-platform screenshots with various annotation features. `Free` `OSS` 🌟
+
+- [Gear Lever](https://github.com/mijorus/gearlever) - A graphical tool to integrate, organize, and update AppImages. `Free` `OSS`
 
 - [Ghostty](https://ghostty.org/) - A novel terminal emulator built in Zig that combines performance and feature set. `Free` `OSS`
 
@@ -62,7 +60,7 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Godot](https://godotengine.org) - A free and open source game engine that allows to create both 2d and 3d games intuitively. `Free` `OSS`
 
-- [Kiro IDE](https://kiro.dev/) - An agentic AI IDE from AWS built around specs, plans, and structured coding workflows. `Free` `AI`
+- [iDescriptor](https://github.com/iDescriptor/iDescriptor) - A cross-platform tool for managing many things on iOS-based devices. `Free` `OSS`
 
 - [LMMS](https://lmms.io) - A DAW with advanced features for power users, fully open source and free. `Free` `OSS`
 
@@ -86,6 +84,8 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Syncthing](https://syncthing.net/) - Syncthing is a P2P file synchronization utility, designed to sync files between devices over LAN or the Internet. `Free` `OSS`
 
+- [UniGetUI](https://devolutions.net/unigetui/) - Windows-focused GUI manager for package managers (unified updating of system packages). `Free` `OSS`
+
 - [VeraCrypt](https://www.veracrypt.fr/) - Popular open source tool that facilitates filesystem-level encryption. `Free` `OSS`
 
 - [Visual Studio Code](https://code.visualstudio.com/) - The most popular code editor of the past decade. `Free`
@@ -98,13 +98,10 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Windows Terminal](https://github.com/microsoft/terminal) - It is a multi-tabbed terminal emulator developed by Microsoft for Windows 10+ as a replacement for Windows Console. `Free` `OSS`
 
-- [Windsurf](https://windsurf.com/) - An AI-powered IDE for code generation, context-aware edits, and agentic software development. `Free` `AI`
-
 - [Xournalpp](https://xournalpp.github.io) - A pdf editor that allows for custom annotations on top of a pdf canvas. `Free` `OSS`
 
-- [Zed](https://zed.dev/) - A fast collaborative code editor with built-in AI integrations and agent support. `Free` `OSS` `AI`
-
 ## CLI Applications
+
 [Table of Contents](#contents)
 
 ---
@@ -133,15 +130,7 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Chezmoi](https://chezmoi.io) - A dotfile manager with a high number of features and tools to make managing dotfiles easy `Free` `OSS` 🌟
 
-- [Claude Code](https://www.anthropic.com/claude-code) - Anthropic's agentic command-line coding tool for delegating software tasks from the terminal. `AI`
-
-- [Cline CLI](https://cline.bot/) - An AI coding agent interface for planning, editing, and running development tasks with user approval. `Free` `OSS` `AI`
-
 - [Cmus](https://cmus.github.io/) - A command line music player. Does its 1 job extremely well, following the UNIX philosophy. `Free` `OSS`
-
-- [Continue CLI](https://docs.continue.dev/cli) - A command-line interface for Continue's open-source AI coding assistant and agent workflows. `Free` `OSS` `AI`
-
-- [Copilot CLI](https://github.com/github/gh-copilot) - A GitHub CLI extension that uses Copilot to explain commands and suggest shell commands. `Free` `AI`
 
 - [Croc](https://github.com/schollz/croc) - An open source solution to transfer files quickly and easily between systems, and a relay is very easily self-hostable. `Free` `OSS`
 
@@ -169,8 +158,6 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Fzf](https://github.com/junegunn/fzf) - A fuzzy finder that can be used in many environments, from vim to cd'ing `Free` `OSS`
 
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's open-source AI agent for bringing Gemini into terminal coding workflows. `Free` `OSS` `AI`
-
 - [Gh](https://cli.github.com) - The official github cli. Now you can use github without even opening a browser! `Free` `OSS` 🌟
 
 - [Git](https://git.kernel.org/pub/scm/git/git.git) - An amazing and highly used version control system. `Free` `OSS` 🌟
@@ -180,8 +167,6 @@ All of these tools and/or resources are free and open source unless specified
 - [Glow](https://github.com/charmbracelet/glow) - A markdown renderer for the command line. `Free` `OSS`
 
 - [GnuPG](https://gnupg.org/) - A full encryption and signing tool implementing OpenPGP for files, messages, and keys. `Free` `OSS`
-
-- [Goose](https://block.github.io/goose/) - Block's open-source local AI agent for coding, automation, and tool-using workflows. `Free` `OSS` `AI`
 
 - [GoReleaser](https://goreleaser.com/) - Automates building and publishing releases for Go projects across multiple platforms. `Free` `OSS`
 
@@ -203,19 +188,15 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Json-server](https://github.com/typicode/json-server) - A cool way to set up a local mock json api for use to mock a real API. `Free` `OSS`
 
-- [Kiro CLI](https://kiro.dev/) - A command-line companion for Kiro's spec-driven agentic development workflows. `Free` `AI`
-
 - [Lazydocker](https://github.com/jesseduffield/lazydocker) - A terminal UI for managing Docker containers, images, volumes, and logs in one place. `Free` `OSS`
 
 - [Lazygit](https://github.com/jesseduffield/lazygit) - A terminal UI for Git that makes staging, commits, branches, and history easier to handle. `Free` `OSS`
-
-- [Llama.cpp](https://github.com/ggml-org/llama.cpp) - A lightweight inference stack for running large language models locally across many platforms. `Free` `OSS` `AI`
 
 - [Lychee](https://github.com/lycheeverse/lychee) - A link checker for markup formats `Free` `OSS`
 
 - [Miniserve](https://github.com/svenstaro/miniserve) - Serve files over HTTP quickly from the command line with a simple temporary file server. `Free` `OSS`
 
-- [Mise](https://mise.jdx.dev/) - A dev environment manager for tool versions, tasks, and environment variables. `Free` `OSS`
+- [Mise](https://mise.jdx.dev/) - A dev environment manager for tool versions, tasks, and environment variables. Also a binary version manager! `Free` `OSS`
 
 - [Monolith](https://github.com/Y2Z/monolith) - Save a web page and its assets into one self-contained HTML file. `Free` `OSS`
 
@@ -224,10 +205,6 @@ All of these tools and/or resources are free and open source unless specified
 - [Neovim](https://neovim.io/) - A modernized Vim fork with better defaults for plugins, terminals, remote UIs, and scripting. `Free` `OSS`
 
 - [Onefetch](https://github.com/o2sh/onefetch) - Neofetch, but for git repositories, showing project stats and metadata right in the terminal. `Free` `OSS`
-
-- [OpenAI Codex](https://github.com/openai/codex) - OpenAI's open-source terminal coding agent for editing, running, and reasoning over codebases. `Free` `OSS` `AI`
-
-- [Opencode](https://opencode.ai/) - An open-source terminal AI coding agent with a TUI for planning and editing code. `Free` `OSS` `AI`
 
 - [OpenSSH](https://www.openssh.com/) - Secure shell tools for remote login, file transfer, and encrypted network connections. `Free` `OSS`
 
@@ -274,12 +251,11 @@ All of these tools and/or resources are free and open source unless specified
 - [Tldr](https://github.com/tldr-pages/tldr) - A simpler to read and easier to read community-based alternative to manpages `Free` `OSS`
 
 - [Tmux](https://github.com/tmux/tmux) - A very useful terminal multiplexer to multitask as well as improve productivity. `Free` `OSS` 🌟
-
   - [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - An addon that allows you to manage projects and open a full environment quickly. `Free` `OSS`
 
 - [Tokei](https://github.com/XAMPPRocky/tokei) - Show code statistics quickly, including language breakdowns, files, comments, and lines. `Free` `OSS`
 
-- [Topgrade](https://github.com/r-darwish/topgrade) - A full command line update system `Free` `OSS`
+- [Topgrade](https://github.com/topgrade-rs/topgrade) - A full command line update system `Free` `OSS`
 
 - [Typst](https://typst.app/) - A modern markup-based typesetting system for creating documents without as much LaTeX ceremony. `Free` `OSS`
 
@@ -315,19 +291,15 @@ All of these tools and/or resources are free and open source unless specified
   - [Arch Linux](https://archlinux.org) - A open source distribution built on linux, staying on the bleeding edge, but providing users the latest software `Free` `OSS`
 
 ## Tools
+
 [Table of Contents](#contents)
 
 - [Distrobox](https://github.com/89luca89/distrobox) - A tool used to spin up multiple operating systems with access to your home sirectory and leverages container technologies like podman and docker to do so. `Free` `OSS`
 
 - [Docker](https://docker.com) - A open tool for containerization, to run applications on multiple places the same. `Free` `OSS` 🌟
-
   - [Portainer](https://portainer.io) - Simply, a web ui for docker, but is extremely feature rich, to the level that docker cli is no more necessary when this tool is used. `Free` `OSS`
 
-- [GitHub Copilot](https://github.com/features/copilot) - GitHub's AI coding assistant for completions, chat, and agentic software development workflows. `Free` `AI`
-
 - [KVM](https://linux-kvm.org/page/Main_Page) - Linux kernel virtualization support for running virtual machines with hardware acceleration. `Free` `OSS`
-
-- [OpenClaw](https://openclaw.ai/) - An open-source autonomous AI assistant framework for running persistent agents through messaging and tool integrations. `Free` `OSS` `AI`
 
 - [Podman](https://podman.io/) - Another container manager, known as podman, that uses a non-root system with no daemon and a focus on the lifetime of containers. `Free` `OSS`
 
@@ -337,6 +309,55 @@ All of these tools and/or resources are free and open source unless specified
 
 - [X11docker](https://github.com/mviereck/x11docker) - Run GUI applications or desktops in Docker and Podman containers with a security focus. `Free` `OSS`
 
+## AI Tools
+
+[Table of Contents](#contents)
+
+### Desktop/IDE's
+
+- [Antigravity](https://antigravity.google/) - An agent-first AI development environment from Google for delegating coding tasks to autonomous agents. Also has a CLI. `Free` `AI` 🌟
+
+- [Cursor](https://www.cursor.com/) - An AI-powered code editor for codebase-aware chat, edits, and agentic development workflows. `Free` `AI`
+
+- [Emdash](https://emdash.sh) - Open source parallel-agent orchestration across a codebase. Focuses on CLI agents. `Free` `OSS` `AI` 🌟
+
+- [Kiro IDE](https://kiro.dev/) - An agentic AI IDE from AWS built around specs, plans, and structured coding workflows. `Free` `AI`
+
+- [Windsurf](https://windsurf.com/) - An AI-powered IDE for code generation, context-aware edits, and agentic software development. `Free` `AI`
+
+- [Zed](https://zed.dev/) - A fast collaborative code editor with built-in AI integrations and agent support. `Free` `OSS` `AI`
+
+### IDE Extensions
+
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub's AI coding assistant for completions, chat, and agentic software development workflows. `Free` `AI`
+
+### CLI
+
+- [CCUsage](https://ccusage.com/) - A tool-agnostic token tracking cli tool for all your AI usage! `Free` `OSS` `AI` 🌟
+
+- [Claude Code](https://www.anthropic.com/claude-code) - Anthropic's agentic command-line coding tool for delegating software tasks from the terminal. `AI`
+
+- [Cline CLI](https://cline.bot/) - An AI coding agent interface for planning, editing, and running development tasks with user approval. `Free` `OSS` `AI` 🌟
+
+- [Continue CLI](https://docs.continue.dev/cli) - A command-line interface for Continue's open-source AI coding assistant and agent workflows. `Free` `OSS` `AI`
+
+- [Copilot CLI](https://github.com/github/gh-copilot) - A CLI agent that uses Copilot to explain commands and suggest shell commands. `Free` `AI` 🌟
+
+- [Goose](https://block.github.io/goose/) - Block's open-source local AI agent for coding, automation, and tool-using workflows. `Free` `OSS` `AI`
+
+- [Kiro CLI](https://kiro.dev/) - A command-line companion for Kiro's spec-driven agentic development workflows ( [Kiro Gateway](https://github.com/jwadow/kiro-gateway) is really cool. ) `Free` `AI`
+
+- [Llama.cpp](https://github.com/ggml-org/llama.cpp) - A lightweight inference stack for running large language models locally across many platforms. `Free` `OSS` `AI` 🌟
+
+- [OpenAI Codex](https://github.com/openai/codex) - OpenAI's open-source terminal coding agent for editing, running, and reasoning over codebases. Also has a desktop application. `Free` `OSS` `AI` 🌟
+
+- [Opencode](https://opencode.ai/) - An open-source terminal AI coding agent with a TUI for planning and editing code. `Free` `OSS` `AI` 🌟
+
+### Overarching Agents
+
+- [OpenClaw](https://openclaw.ai/) - An open-source autonomous AI assistant framework for running persistent agents through messaging and tool integrations. `Free` `OSS` `AI`
+
+- [Hermes](https://openclaw.ai/) - An open-source autonomous AI assistant framework for running persistent agents through messaging and tool integrations. `Free` `OSS` `AI`
 
 ## Frameworks
 
@@ -355,6 +376,7 @@ All of these tools and/or resources are free and open source unless specified
 - [Pocketbase](https://pocketbase.io/) - A small backend in a single executable with database, auth, file storage, and an admin UI. `Free` `OSS`
 
 ## Selfhosted Apps
+
 [Table of Contents](#contents)
 
 - [Caddy](https://caddyserver.com/) - A web server and reverse proxy with automatic HTTPS as a major built-in feature. `Free` `OSS`
@@ -385,7 +407,7 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Cloud Shell](https://shell.cloud.google.com/?pli=1&show=ide%2Cterminal) - A theia-like IDE to run code in a full-featured web ide, with 5gb of storage. `Free` 🌟
 
-- [Draw.io](https://app.diagrams.net/) - An open source whiteboard and diagramming tool that I use to plan projects and sketch outlines. `Free` `OSS`
+- [Draw.io](https://github.com/jgraph/drawio-desktop) - An open source whiteboard and diagramming tool that I use to plan projects and sketch outlines. `Free` `OSS`
 
 - [Excalidraw](https://excalidraw.com) - An open source web whiteboard. I personally use it for notes. `Free` `OSS`
 
@@ -416,6 +438,7 @@ All of these tools and/or resources are free and open source unless specified
 - [Tldraw](https://www.tldraw.com/) - Another open source whiteboard app with a simpler overall model. `Free` `OSS`
 
 ## Miscellaneous
+
 [Table of Contents](#contents)
 
 - [Conventional Commits](https://www.conventionalcommits.org/) - A commit message convention that makes changelogs and semantic versioning easier to automate. `Free` `OSS`
