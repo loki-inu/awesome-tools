@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aswath's List of Cool Tools & Resources
+# Aswath's Awesome List
 
 ![Awesome](https://awesome.re/badge.svg)
 
@@ -442,6 +442,16 @@ All of these tools and/or resources are free and open source unless specified
 [Table of Contents](#contents)
 
 - [Conventional Commits](https://www.conventionalcommits.org/) - A commit message convention that makes changelogs and semantic versioning easier to automate. `Free` `OSS`
+
+### Fonts
+
+- [Inter](https://rsms.me/inter/) - Overused, but a free, open-source font that works well for display and sans-serif text. `Free` `OSS`
+
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - Open-source font family by JetBrains and a highly readable choice for programming. `Free` `OSS`
+
+- [Nimbus Sans](https://github.com/ArtifexSoftware/urw-base35-fonts) - Free, open-source Helvetica alternative from URW's PostScript core-font set. `Free` `OSS`
+
+- [TeX Gyre Heros](https://www.gust.org.pl/projects/e-foundry/tex-gyre/heros) - Free, open-source Helvetica alternative based on URW's Nimbus Sans L for TeX. `Free` `OSS`
 
 ## Thanks For Reading
 
