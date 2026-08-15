@@ -443,6 +443,10 @@ All of these tools and/or resources are free and open source unless specified
 
 - [Conventional Commits](https://www.conventionalcommits.org/) - A commit message convention that makes changelogs and semantic versioning easier to automate. `Free` `OSS`
 
+### Web Extensions
+
+- [Obsidian Clipper](https://github.com/obsidianmd/obsidian-clipper) - Open-source browser extension for copying web content as Markdown. `Free` `OSS`
+
 ### Fonts
 
 - [Inter](https://rsms.me/inter/) - Overused, but a free, open-source font that works well for display and sans-serif text. `Free` `OSS`
